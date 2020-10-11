@@ -1,0 +1,15 @@
+|circuito_combinacional2
+A => Logic3~0.IN0
+A => Logic1~0.IN0
+B => Logic1~0.IN1
+B => Logic3~0.IN1
+C => Logic2~0.IN1
+C => Logic1~1.IN1
+D => Logic1~2.IN0
+D => Logic3~1.IN1
+E => Logic1~2.IN1
+E => Logic2.IN1
+E => Logic3.IN1
+O <= O~1.DB_MAX_OUTPUT_PORT_TYPE
+
+
