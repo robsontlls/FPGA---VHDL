@@ -1,0 +1,73 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Robinho\OneDrive\Eletrônica\Cursos\FPGA\Desafio Tafas\Projeto 2 - ALU74181\simulation\modelsim
+Ecomp_alu74181
+Z1 w1635982419
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Robinho\OneDrive\Eletrônica\Cursos\FPGA\Desafio Tafas\Projeto 2 - ALU74181\simulation\modelsim
+Z5 8C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/comp_ALU74181.vhd
+Z6 FC:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/comp_ALU74181.vhd
+l0
+L12
+VV0AmGn3Hz>_;GaenE@gFN0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1635983063.174000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/comp_ALU74181.vhd|
+Z10 !s107 C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/comp_ALU74181.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 k]S`E96lY@6l^h4VNlnX01
+!i10b 1
+Ahardware
+R2
+R3
+DEx4 work 13 comp_alu74181 0 22 V0AmGn3Hz>_;GaenE@gFN0
+l29
+L27
+V;7a:NfWDHV4PK3OE=ITEb1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 BzJRiK4bDZX_^]L;N5ih[2
+!i10b 1
+Etb_alu74181
+Z13 w1635982931
+R4
+Z14 8C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/tb_ALU74181.vhd
+Z15 FC:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/tb_ALU74181.vhd
+l0
+L9
+VmkG@^k_VAYN_Eg>n9RZWV2
+!s100 ]JgOY@<7oL:d>Ob`TfKJ81
+R7
+32
+!i10b 1
+Z16 !s108 1635983063.439000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/tb_ALU74181.vhd|
+Z18 !s107 C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/simulation/modelsim/tb_ALU74181.vhd|
+R11
+R12
+Atb_arc_alu74181
+DEx4 work 11 tb_alu74181 0 22 mkG@^k_VAYN_Eg>n9RZWV2
+R2
+R3
+l41
+L15
+VJD6@jMVbW@FN_a?29YkbU3
+!s100 FcbM66;iiW9]DI<PIb=UE3
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

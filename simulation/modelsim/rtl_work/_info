@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Robinho\OneDrive\Eletrônica\Cursos\FPGA\Desafio Tafas\Projeto 2 - ALU74181\simulation\modelsim
+Ealu74181
+Z1 w1635981799
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Robinho\OneDrive\Eletrônica\Cursos\FPGA\Desafio Tafas\Projeto 2 - ALU74181\simulation\modelsim
+Z5 8C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/ALU74181.vhd
+Z6 FC:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/ALU74181.vhd
+l0
+L12
+VD<aZ]T[E9[8zo0US:3cgF2
+!s100 DlX9A0bo_Q`BmnzY;ag<l3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1635983020.511000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/ALU74181.vhd|
+Z10 !s107 C:/Users/Robinho/OneDrive/Eletrônica/Cursos/FPGA/Desafio Tafas/Projeto 2 - ALU74181/ALU74181.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Ahardware
+R2
+R3
+DEx4 work 8 alu74181 0 22 D<aZ]T[E9[8zo0US:3cgF2
+l29
+L27
+V?JInV@Nh6[<hQA6HDlMNT2
+!s100 fO1OfMUEM];<U4F`Xj]9K3
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
